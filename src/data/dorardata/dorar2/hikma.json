@@ -1,0 +1,91 @@
+[
+  {
+    "id": 55,
+    "title": "الدرس 1  احكام الطهارة",
+    "description": {
+      "highlight": "احكام الطهارة",
+      "text": " الشيخ عبد الحميد الزواوي شرح كتاب الحبيب بن طاهر"
+    },
+    "thumbnail": "/PDFs/hbibfiqh/allfiqh.jpeg",
+    "url": "https://drive.google.com/file/d/1NcQuFogXI1zIXeVrfQgEXtCpismWF8vm/view?usp=sharing",
+    "fawaaidPdf": "/PDFs/hbibfiqh/tahara.pdf",
+    "siraprof": "وصف الكتاب: يقول الشيخ الحبيب بن طاهر إن هذا الكتاب في فقه العبادات على المذهب المالكي، وهو حصيلة ما أُلقي خلال الدورات التكوينية التي نُظّمت للسادة أئمة الخمس والمؤذنين بجوامع ومساجد معتمديات باجة ونفزة وعمدون وتيبار طيلة عشر سنوات، حتى يتسنى للقائمين على بيوت الله تعالى اكتساب المعلومات الدينية اللازمة للقيام بمهامهم على أحسن الوجوه. وقد توخّى المؤلف الدقة والتفصيل واستيعاب المسائل، بحيث يغني في بابه عن الرجوع إلى غيره. واعتمد أساسًا على كتاب «أقرب المسالك» باعتباره المعتمد في المذهب المالكي، وهو مختصر فقهي للشيخ أحمد الدردير مع شرحه وتعليق الشيخ أحمد الصاوي. وقد اعتمد الدردير في مختصره على مختصر الشيخ خليل بن إسحاق، مع استبدال الأقوال الضعيفة بالأقوال المعتمدة. وقد مزج المؤلف في هذا الكتاب بين المتن والشرح، وصاغه بأسلوب عصري يسهل على القارئ فهم مسائله دون عناء."
+  },
+  {
+    "id": 56,
+    "title": "الدرس 2  احكام الصلاة",
+    "description": {
+      "highlight": "احكام الصلاة",
+      "text": " الشيخ عبد الحميد الزواوي شرح كتاب الحبيب بن طاهر"
+    },
+    "thumbnail": "/PDFs/hbibfiqh/allfiqh.jpeg",
+    "url": "",
+    "fawaaidPdf": "/PDFs/hbibfiqh/salat.pdf"
+  },
+  {
+    "id": 57,
+    "title": "الدرس 3 ج1 احكام الزكاة",
+    "description": {
+      "highlight": "أحكام الزكاة",
+      "text": " الشيخ عبد الحميد الزواوي شرح كتاب الحبيب بن طاهر"
+    },
+    "thumbnail": "/PDFs/hbibfiqh/allfiqh.jpeg",
+    "url": "https://www.youtube.com/watch?v=PlnIQFLj8FY&list=PL32DC49BA0F93A008&index=1&pp=iAQB",
+    "fawaaidPdf": "/PDFs/hbibfiqh/zakat.pdf"
+  },
+  {
+    "id": 58,
+    "title": "الدرس 4 ج2  احكام الزكاة",
+    "description": {
+      "highlight": "أحكام الزكاة",
+      "text": " الشيخ عبد الحميد الزواوي شرح كتاب الحبيب بن طاهر"
+    },
+    "thumbnail": "/PDFs/hbibfiqh/allfiqh.jpeg",
+    "url": "https://www.youtube.com/watch?v=1K23Nzk_qOM&list=PL32DC49BA0F93A008&index=2&pp=iAQB",
+    "fawaaidPdf": "/PDFs/hbibfiqh/zakat.pdf"
+  },
+  {
+    "id": 59,
+    "title": "الدرس 5 ج3  احكام الزكاة",
+    "description": {
+      "highlight": "أحكام الزكاة",
+      "text": " الشيخ عبد الحميد الزواوي شرح كتاب الحبيب بن طاهر"
+    },
+    "thumbnail": "/PDFs/hbibfiqh/allfiqh.jpeg",
+    "url": "https://www.youtube.com/watch?v=Hck-x-nM3CE&list=PL32DC49BA0F93A008&index=3&pp=iAQB",
+    "fawaaidPdf": "/PDFs/hbibfiqh/zakat.pdf"
+  },
+  {
+    "id": 60,
+    "title": "الدرس 6  احكام الصوم",
+    "description": {
+      "highlight": "احكام الصوم",
+      "text": " الشيخ عبد الحميد الزواوي شرح كتاب الحبيب بن طاهر"
+    },
+    "thumbnail": "/PDFs/hbibfiqh/allfiqh.jpeg",
+    "url": "",
+    "fawaaidPdf": "/PDFs/hbibfiqh/sawm.pdf"
+  },
+  {
+    "id": 61,
+    "title": "الدرس 7  احكام الحج",
+    "description": {
+      "highlight": "احكام الحج",
+      "text": "   الشيخ عبد الحميد الزواوي شرح كتاب الحبيب بن طاهر"
+    },
+    "thumbnail": "/PDFs/hbibfiqh/allfiqh.jpeg",
+    "url": "",
+    "fawaaidPdf": "/PDFs/hbibfiqh/haj1.pdf"
+  },
+  {
+    "id": 62,
+    "title": "الدرس 8  احكام الاضحية ",
+    "description": {
+      "highlight": "احكام الاضحية",
+      "text": " الشيخ عبد الحميد الزواوي شرح كتاب الحبيب بن طاهر"
+    },
+    "thumbnail": "/PDFs/hbibfiqh/allfiqh.jpeg",
+    "url": "",
+    "fawaaidPdf": "/PDFs/hbibfiqh/haj1.pdf"
+  }
+]

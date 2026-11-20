@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "متون في الفقه",
+    "description": "متنُ ابن عاشر (كاملٌ) صوت و صورة",
+    "thumbnail": "/images/fiqh.png",
+    "url": "https://drive.google.com/file/d/1z8IYP8aJnId1cyY09ZmkPuYOtlSdTcU5/preview",
+    "motounPdf": "https://ia601305.us.archive.org/24/items/Ibn_Achir/Ibn_Achir01.pdf"
+  },
+  {
+    "id": 2,
+    "title": "متون في العقيدة  السنة الأول",
+    "description": "عقيدة الشذرات الذهبية على منظومة العقائد الشرنوبية ",
+    "thumbnail": "/images/aqida1.png",
+    "url": "https://drive.google.com/file/d/19ABf54XSVI2zt94xNTaSAZQxzAnQgaNu/preview",
+    "motounPdf": "https://dn721604.ca.archive.org/0/items/charnoubia-hawdia-akida-acharia/charnoubia%20%2B%20hawdia%20akida%20acharia.pdf"
+  },
+  {
+    "id": 3,
+    "title": "متون في العقيدة  السنة الثانية",
+    "description": " طالع البشرى على العقيدة الصغرى ومنظومة جوهرة التوحيد ",
+    "thumbnail": "/images/aqida2.png",
+    "url": "https://drive.google.com/file/d/1hRpQNltGV_ZEAPS6Smq62AX2bC9Rz1qb/preview",
+    "motounPdf": "https://drive.google.com/file/d/1mnypYzz2hVGdSnNQutpM3RrfeuI96WPP/view?usp=sharing",
+    "motoun1Pdf": "https://docs.google.com/document/d/1KfKheHCrUiSnbooxLzXji75jCLG99YZc/edit?usp=sharing&ouid=115610745579986688331&rtpof=true&sd=true"
+  },
+  {
+    "id": 4,
+    "title": "متون في النحو",
+    "description": "متن الآجرومية في النحو",
+    "thumbnail": "/images/nahw.png",
+    "url": "https://drive.google.com/file/d/1oHUkOJ1aCekqBnaIbfUin94jOq2dVHZM/preview",
+    "motounPdf": "https://drive.google.com/file/d/1skX30NrzIEQcFPMSyTD2QjDbqQ-rmbM1/view?usp=sharing",
+    "motoun1Pdf": "https://drive.google.com/file/d/1UtrFj3ura7JidTUm95JzHBTG5AQCQjPE/view?usp=sharing"
+  },
+  {
+    "id": 5,
+    "title": "الحكم العطائية",
+    "description": "متن ابن عطاء الله الاسكندراني",
+    "thumbnail": "/images/akhlaq.png",
+    "url": "https://drive.google.com/file/d/1i41ts1ytu9l1nOrw4RBOVUnVMGeux6u_/preview",
+    "motounPdf": "https://drive.google.com/file/d/1livQSYBLvnISx-phcuRZLWNwi3F-jApe/view?usp=sharing"
+  },
+  {
+    "id": 6,
+    "title": "متون الجزرية",
+    "description": "متن الجزرية بصوت الشيخ أيمن سويد",
+    "thumbnail": "/images/tajwid.png",
+    "url": "https://drive.google.com/file/d/1BvCmZM3jlInJ2vCcARXWd8B8VF049dxO/preview",
+    "motounPdf": "https://drive.google.com/file/d/134ldcnwzXI9VXQGSvyFSZHbBzebzhyOa/view?usp=sharing"
+  },
+  {
+    "id": 7,
+    "title": "متون  البيقونية في علم مصطلح الحديث",
+    "description": "متن الامام عمر بن محمد بن فتوح البيقوني ",
+    "thumbnail": "/images/hadith.jpg",
+    "url": "https://youtu.be/qEZNw7wATQ4?si=MDJSuFuF4Uq1E50S",
+    "motounPdf": "https://drive.google.com/file/d/1qKYhJcMrNtDaz-1wcxB-0BQNlENgJnng/view?usp=sharing"
+  },
+  {
+    "id": 8,
+    "title": "فضل العلم والحث عليه ",
+    "description": "قصيدة صوتية_ في فضل العلم والحث عليه لابن أبي زيد القيرواني",
+    "thumbnail": "/images/science.jpg",
+    "url": "https://drive.google.com/file/d/1dJkJqmfJE7KFIgmJK8YgbX8gWf95lA80/preview",
+    "motounPdf": "/PDFs/book/text.jpg"
+  }
+]
