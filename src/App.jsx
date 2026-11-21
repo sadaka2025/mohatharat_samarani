@@ -123,18 +123,7 @@ function App() {
               {selectedGenre.dataset === "dorar" && (
                 <div className="flex justify-center gap-3 mb-6 flex-wrap">
                   {[
-                    {
-                      label: "إيضاح المعاني على رسالة القيراوني",
-                      source: "bayan",
-                    },
-                    {
-                      label: "قواعد الفقه المالكي على قضايا معاصرة",
-                      source: "hikma",
-                    },
-                    {
-                      label: "أدلة فقه متن ابن عاشر",
-                      source: "book",
-                    },
+                   
                     {
                       label: "مراجع كتب ابداع الدكتور فاضل السامرائي",
                       source: "nafahat1",
